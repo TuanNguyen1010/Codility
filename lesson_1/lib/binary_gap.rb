@@ -5,7 +5,7 @@ def binary_gap(input)
   binary.each{ |element|
   if element == '0'
     streak += 1
-  else
+  elsif element == '1'
     if streak > output
       output = streak
     end 
@@ -13,5 +13,5 @@ def binary_gap(input)
   end 
   }
 
-  return streak
+  return output
 end 
