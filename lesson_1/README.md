@@ -18,7 +18,7 @@ Write an efficient algorithm for the following assumptions:
 
 
 |input | binary | output |
-|------|--------|________|
+|------|--------|--------|
 |9     | 1001   |    2  |
 |2     | 10     |    0 |
 |92    | 1011100|    1 |
