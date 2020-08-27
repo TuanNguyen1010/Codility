@@ -48,3 +48,9 @@ Assume that:
 N and K are integers within the range [0..100];
 each element of array A is an integer within the range [−1,000..1,000]. 
 ```
+
+| input       | output |
+|-------------|--------|
+| 0,[]        |  []    |
+| 3,[3, 8, 9, 7, 6] | [9, 7, 6, 3, 8] |
+| 4, [1, 2, 3, 4] | [1, 2, 3, 4]
